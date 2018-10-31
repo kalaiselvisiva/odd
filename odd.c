@@ -4,8 +4,8 @@ int main()
 int n;
 scanf("%d",&n);
 if(n%2==0)
-printf("Odd\n");
+printf("even\n");
 else
-printf("Even\n");
+printf("odd\n");
 return 0;
 }
